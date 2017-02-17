@@ -14,7 +14,7 @@ The page naming system uses hyphens and underscores prefixes to identify differe
 - - **-filename:** any pages which have explorations, unused blocks, or junk which you don't want to delete  
 
 ## Example Structure:
-- *Symbols  
+- +Symbols  
 - *Website_assets  
 - atoms  
 - molecules  
