@@ -15,7 +15,7 @@ The page naming system uses hyphens and underscores prefixes to identify differe
 
 ## Example Structure:
 - +Symbols  
-- *Website_assets  
+- +Website_assets  
 - atoms  
 - molecules  
 - organisms  
